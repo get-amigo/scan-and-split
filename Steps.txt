@@ -1,0 +1,4 @@
+npm i
+paste google-services.json in the root directory
+npx expo prebuild :-> package name should be same as mentioned in firebase : like-> com.test.ocr
+npx expo run:android
