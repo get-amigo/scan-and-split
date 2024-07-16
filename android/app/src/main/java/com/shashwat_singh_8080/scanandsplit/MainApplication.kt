@@ -1,4 +1,4 @@
-package com.test.ocr
+package com.shashwat_singh_8080.scanandsplit
 
 import android.app.Application
 import android.content.res.Configuration

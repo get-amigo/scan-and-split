@@ -1,5 +1,3 @@
 npm i
-paste google-services.json in the root directory
-set app.android.package to the firebase package name in app.json
-npx expo prebuild :-> package name should be same as mentioned in firebase : like-> com.test.ocr
+npx expo prebuild
 npx expo run:android
